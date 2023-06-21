@@ -3,6 +3,10 @@
 	word-wrap: break-word;
 }
 
+a {
+	text-decoration-line: underline;
+}
+
 .center {
 	margin: auto;
 	text-align: center;
