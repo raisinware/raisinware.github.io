@@ -1,8 +1,24 @@
 :root {
 	font-family: sans-serif;
+	word-wrap: break-word;
 }
 
-#center {
+.center {
 	margin: auto;
 	text-align: center;
+}
+
+#heading {
+	padding: 10px;
+	padding-bottom: 15px;
+}
+
+#footer {
+	padding: 10px;
+}
+
+#contents {
+	padding-left: 25px;
+	padding-right: 25px;
+	
 }
